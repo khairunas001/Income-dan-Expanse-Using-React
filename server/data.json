@@ -1,0 +1,21 @@
+{
+  "incomes": [
+    {
+      "name": "Tunjangan",
+      "total": 1000000000,
+      "id": 1
+    }
+  ],
+  "expanses": [
+    {
+      "id": 1,
+      "name": "Makan Siang",
+      "total": 50000
+    },
+    {
+      "id": 2,
+      "name": "Makan Malam",
+      "total": 50000
+    }
+  ]
+}
