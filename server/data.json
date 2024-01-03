@@ -4,9 +4,14 @@
       "name": "Tunjangan",
       "total": 1000000000,
       "id": 1
+    },
+    {
+      "name": "hjgjhgjhg",
+      "total": 90000000,
+      "id": 8
     }
   ],
-  "expanses": [
+  "expenses": [
     {
       "id": 1,
       "name": "Makan Siang",
@@ -16,6 +21,16 @@
       "id": 2,
       "name": "Makan Malam",
       "total": 50000
+    },
+    {
+      "name": "Skripsi",
+      "total": 9000000,
+      "id": 3
+    },
+    {
+      "name": "aklsdjalksjdlkas",
+      "total": 90128309182309120,
+      "id": 5
     }
   ]
 }
